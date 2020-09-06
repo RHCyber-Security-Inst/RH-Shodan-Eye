@@ -51,7 +51,7 @@ Shodan Dorks ... The Internet of Sh*t
 causing malicious or damaging attacks.
 * Performing any hacks without written permission is illegal ..!
 ***
-![Screenshot](RH Shodan Eye1.png)
+![Screenshot](RHShodanEye1.png)
 ****
 ![Screenshot](ShodanEye2.png)
 ****
