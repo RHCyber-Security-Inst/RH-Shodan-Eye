@@ -59,12 +59,12 @@ causing malicious or damaging attacks.
 # Install RH-Shodan Eye on linux:
 ****
 
-cd RH-Shodan-Eye
+cd rh-shodan-eye
 pip3 install -r requirements.txt
-chmod +x rh_shodan.py
 ****
 
 # How to use RH-Shodan Eye
+chmod +x rh_shodan.py
 python3 rh_shodan.py
 
 (You will be asked for a Shodan API key)
