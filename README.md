@@ -1,8 +1,8 @@
-# RH|Shodan
+# RH-Shodan
 This tool collects all information about all devices that are directly connected to the internet with the specified keywords that you enter. This way you get a complete overview.
 ****
 
-Here you can read the latest article about Shodan Eye:
+Here you can read the latest article about RH-Shodan Eye:
 
 https://rhcybersecurity.com/shodan-eye-ethical-hacking-tool-release/
 ****
@@ -15,11 +15,11 @@ The information obtained with this tool can be applied in many areas, a small ex
 And so much more.
 ****
 
-# RH|Shodan Eye Ethical Hacking Tool Release
+# RH-Shodan Eye Ethical Hacking Tool Release
 Before we start the year 2020, today there is a new big release ..! 
 Please note, if you have already installed Shodan Eye on your computer, then it is worthwhile to read it carefully. Of course, even if you don’t know this Shodan tool yet.
 
-* RH|Shodan Eye goes from python 2 to python 3
+* RH-Shodan Eye goes from python 2 to python 3
 * Save the output of the Shodan Eye results
 * The entry of the Shodan password is no longer visible.
 
@@ -52,26 +52,18 @@ causing malicious or damaging attacks.
 * Performing any hacks without written permission is illegal ..!
 ***
 
-# Install RH|Shodan ey on linux:
+# Install RH-Shodan Eye on linux:
 ****
 
-cd rh|shodan
+cd rh-shodan
 
 pip3 install -r requirements.txt
 ****
 
-# How to use Shodan Eye
-python3 rh|shodan.py
+# How to use RH-Shodan Eye
+python3 rh-shodan.py
 
 (You will be asked for a Shodan API key)
 
 Have fun ..! 😃
 ****
-
-# Contact to coder
-Social Networks - Connect
-
-
-## Buy me a coffee
-I have developed Shodan Eye because I am passionate about this. 
-Donations are one of the many ways to support what I do.
