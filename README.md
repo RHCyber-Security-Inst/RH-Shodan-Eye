@@ -61,10 +61,10 @@ causing malicious or damaging attacks.
 
 cd rh-shodan-eye
 pip3 install -r requirements.txt
+
 ****
 
 # How to use RH-Shodan Eye
-chmod +x rh_shodan.py
 python3 rh_shodan.py
 
 (You will be asked for a Shodan API key)
